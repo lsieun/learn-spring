@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+# Generated files
+*/bin/
+*/gen/
+*/out/
+*/target/
+*/.idea/
+
 # Log file
 *.log
 
