@@ -7,6 +7,9 @@
 */out/
 */target/
 */.idea/
+.idea/
+*.iml
+target/
 
 # Log file
 *.log
